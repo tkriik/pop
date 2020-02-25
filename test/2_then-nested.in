@@ -1,0 +1,25 @@
+1 1 == then
+  2 2 == then
+    3 3 == then 1 . end
+  end
+end
+
+1 1 == then
+  2 2 == then
+    2 3 == then 2 . end
+  end
+end
+
+1 1 == then
+  1 2 == then
+    3 3 == then 3 . end
+  end
+end
+
+0 1 == then
+  2 2 == then
+    3 3 == then 4 . end
+  end
+end
+
+0 .
